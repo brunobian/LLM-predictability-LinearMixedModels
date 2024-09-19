@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="504pt" viewBox="0 0 576 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-05-08T11:08:13.158653</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 576 504 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 72 448.56 
+L 429.12 448.56 
+L 429.12 60.48 
+L 72 60.48 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="QuadMesh_1">
+    <path d="M 72 60.48 
+L 107.712 60.48 
+L 107.712 92.82 
+L 72 92.82 
+L 72 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 107.712 60.48 
+L 143.424 60.48 
+L 143.424 92.82 
+L 107.712 92.82 
+L 107.712 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 143.424 60.48 
+L 179.136 60.48 
+L 179.136 92.82 
+L 143.424 92.82 
+L 143.424 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 179.136 60.48 
+L 214.848 60.48 
+L 214.848 92.82 
+L 179.136 92.82 
+L 179.136 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 214.848 60.48 
+L 250.56 60.48 
+L 250.56 92.82 
+L 214.848 92.82 
+L 214.848 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 250.56 60.48 
+L 286.272 60.48 
+L 286.272 92.82 
+L 250.56 92.82 
+L 250.56 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 286.272 60.48 
+L 321.984 60.48 
+L 321.984 92.82 
+L 286.272 92.82 
+L 286.272 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 321.984 60.48 
+L 357.696 60.48 
+L 357.696 92.82 
+L 321.984 92.82 
+L 321.984 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 357.696 60.48 
+L 393.408 60.48 
+L 393.408 92.82 
+L 357.696 92.82 
+L 357.696 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 393.408 60.48 
+L 429.12 60.48 
+L 429.12 92.82 
+L 393.408 92.82 
+L 393.408 60.48 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 72 92.82 
+L 107.712 92.82 
+L 107.712 125.16 
+L 72 125.16 
+L 72 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 107.712 92.82 
+L 143.424 92.82 
+L 143.424 125.16 
+L 107.712 125.16 
+L 107.712 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 143.424 92.82 
+L 179.136 92.82 
+L 179.136 125.16 
+L 143.424 125.16 
+L 143.424 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 179.136 92.82 
+L 214.848 92.82 
+L 214.848 125.16 
+L 179.136 125.16 
+L 179.136 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 214.848 92.82 
+L 250.56 92.82 
+L 250.56 125.16 
+L 214.848 125.16 
+L 214.848 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 250.56 92.82 
+L 286.272 92.82 
+L 286.272 125.16 
+L 250.56 125.16 
+L 250.56 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 286.272 92.82 
+L 321.984 92.82 
+L 321.984 125.16 
+L 286.272 125.16 
+L 286.272 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 321.984 92.82 
+L 357.696 92.82 
+L 357.696 125.16 
+L 321.984 125.16 
+L 321.984 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 357.696 92.82 
+L 393.408 92.82 
+L 393.408 125.16 
+L 357.696 125.16 
+L 357.696 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 393.408 92.82 
+L 429.12 92.82 
+L 429.12 125.16 
+L 393.408 125.16 
+L 393.408 92.82 
+" clip-path="url(#p9150545f44)" style="fill: #b40426"/>
+    <path d="M 72 125.16 
+L 107.712 125.16 
+L 107.712 157.5 
+L 72 157.5 
+L 72 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #485fd1"/>
+    <path d="M 107.712 125.16 
+L 143.424 125.16 
+L 143.424 157.5 
+L 107.712 157.5 
+L 107.712 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #455cce"/>
+    <path d="M 143.424 125.16 
+L 179.136 125.16 
+L 179.136 157.5 
+L 143.424 157.5 
+L 143.424 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #4055c8"/>
+    <path d="M 179.136 125.16 
+L 214.848 125.16 
+L 214.848 157.5 
+L 179.136 157.5 
+L 179.136 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #3e51c5"/>
+    <path d="M 214.848 125.16 
+L 250.56 125.16 
+L 250.56 157.5 
+L 214.848 157.5 
+L 214.848 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #3f53c6"/>
+    <path d="M 250.56 125.16 
+L 286.272 125.16 
+L 286.272 157.5 
+L 250.56 157.5 
+L 250.56 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #455cce"/>
+    <path d="M 286.272 125.16 
+L 321.984 125.16 
+L 321.984 157.5 
+L 286.272 157.5 
+L 286.272 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 321.984 125.16 
+L 357.696 125.16 
+L 357.696 157.5 
+L 321.984 157.5 
+L 321.984 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 357.696 125.16 
+L 393.408 125.16 
+L 393.408 157.5 
+L 357.696 157.5 
+L 357.696 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 393.408 125.16 
+L 429.12 125.16 
+L 429.12 157.5 
+L 393.408 157.5 
+L 393.408 125.16 
+" clip-path="url(#p9150545f44)" style="fill: #485fd1"/>
+    <path d="M 72 157.5 
+L 107.712 157.5 
+L 107.712 189.84 
+L 72 189.84 
+L 72 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #85a8fc"/>
+    <path d="M 107.712 157.5 
+L 143.424 157.5 
+L 143.424 189.84 
+L 107.712 189.84 
+L 107.712 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #88abfd"/>
+    <path d="M 143.424 157.5 
+L 179.136 157.5 
+L 179.136 189.84 
+L 143.424 189.84 
+L 143.424 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #cfdaea"/>
+    <path d="M 179.136 157.5 
+L 214.848 157.5 
+L 214.848 189.84 
+L 179.136 189.84 
+L 179.136 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #d1dae9"/>
+    <path d="M 214.848 157.5 
+L 250.56 157.5 
+L 250.56 189.84 
+L 214.848 189.84 
+L 214.848 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #cbd8ee"/>
+    <path d="M 250.56 157.5 
+L 286.272 157.5 
+L 286.272 189.84 
+L 250.56 189.84 
+L 250.56 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #b2ccfb"/>
+    <path d="M 286.272 157.5 
+L 321.984 157.5 
+L 321.984 189.84 
+L 286.272 189.84 
+L 286.272 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #b9d0f9"/>
+    <path d="M 321.984 157.5 
+L 357.696 157.5 
+L 357.696 189.84 
+L 321.984 189.84 
+L 321.984 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #b7cff9"/>
+    <path d="M 357.696 157.5 
+L 393.408 157.5 
+L 393.408 189.84 
+L 357.696 189.84 
+L 357.696 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #b7cff9"/>
+    <path d="M 393.408 157.5 
+L 429.12 157.5 
+L 429.12 189.84 
+L 393.408 189.84 
+L 393.408 157.5 
+" clip-path="url(#p9150545f44)" style="fill: #8fb1fe"/>
+    <path d="M 72 189.84 
+L 107.712 189.84 
+L 107.712 222.18 
+L 72 222.18 
+L 72 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f2cab5"/>
+    <path d="M 107.712 189.84 
+L 143.424 189.84 
+L 143.424 222.18 
+L 107.712 222.18 
+L 107.712 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f2cbb7"/>
+    <path d="M 143.424 189.84 
+L 179.136 189.84 
+L 179.136 222.18 
+L 143.424 222.18 
+L 143.424 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f2c9b4"/>
+    <path d="M 179.136 189.84 
+L 214.848 189.84 
+L 214.848 222.18 
+L 179.136 222.18 
+L 179.136 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f3c8b2"/>
+    <path d="M 214.848 189.84 
+L 250.56 189.84 
+L 250.56 222.18 
+L 214.848 222.18 
+L 214.848 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f2cab5"/>
+    <path d="M 250.56 189.84 
+L 286.272 189.84 
+L 286.272 222.18 
+L 250.56 222.18 
+L 250.56 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f2cab5"/>
+    <path d="M 286.272 189.84 
+L 321.984 189.84 
+L 321.984 222.18 
+L 286.272 222.18 
+L 286.272 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f3c8b2"/>
+    <path d="M 321.984 189.84 
+L 357.696 189.84 
+L 357.696 222.18 
+L 321.984 222.18 
+L 321.984 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f3c7b1"/>
+    <path d="M 357.696 189.84 
+L 393.408 189.84 
+L 393.408 222.18 
+L 357.696 222.18 
+L 357.696 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f3c7b1"/>
+    <path d="M 393.408 189.84 
+L 429.12 189.84 
+L 429.12 222.18 
+L 393.408 222.18 
+L 393.408 189.84 
+" clip-path="url(#p9150545f44)" style="fill: #f2cab5"/>
+    <path d="M 72 222.18 
+L 107.712 222.18 
+L 107.712 254.52 
+L 72 254.52 
+L 72 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #c0d4f5"/>
+    <path d="M 107.712 222.18 
+L 143.424 222.18 
+L 143.424 254.52 
+L 107.712 254.52 
+L 107.712 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #c6d6f1"/>
+    <path d="M 143.424 222.18 
+L 179.136 222.18 
+L 179.136 254.52 
+L 143.424 254.52 
+L 143.424 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #c1d4f4"/>
+    <path d="M 179.136 222.18 
+L 214.848 222.18 
+L 214.848 254.52 
+L 179.136 254.52 
+L 179.136 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bed2f6"/>
+    <path d="M 214.848 222.18 
+L 250.56 222.18 
+L 250.56 254.52 
+L 214.848 254.52 
+L 214.848 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bbd1f8"/>
+    <path d="M 250.56 222.18 
+L 286.272 222.18 
+L 286.272 254.52 
+L 250.56 254.52 
+L 250.56 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bbd1f8"/>
+    <path d="M 286.272 222.18 
+L 321.984 222.18 
+L 321.984 254.52 
+L 286.272 254.52 
+L 286.272 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bbd1f8"/>
+    <path d="M 321.984 222.18 
+L 357.696 222.18 
+L 357.696 254.52 
+L 321.984 254.52 
+L 321.984 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bfd3f6"/>
+    <path d="M 357.696 222.18 
+L 393.408 222.18 
+L 393.408 254.52 
+L 357.696 254.52 
+L 357.696 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bed2f6"/>
+    <path d="M 393.408 222.18 
+L 429.12 222.18 
+L 429.12 254.52 
+L 393.408 254.52 
+L 393.408 222.18 
+" clip-path="url(#p9150545f44)" style="fill: #bcd2f7"/>
+    <path d="M 72 254.52 
+L 107.712 254.52 
+L 107.712 286.86 
+L 72 286.86 
+L 72 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b5cdfa"/>
+    <path d="M 107.712 254.52 
+L 143.424 254.52 
+L 143.424 286.86 
+L 107.712 286.86 
+L 107.712 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b9d0f9"/>
+    <path d="M 143.424 254.52 
+L 179.136 254.52 
+L 179.136 286.86 
+L 143.424 286.86 
+L 143.424 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b2ccfb"/>
+    <path d="M 179.136 254.52 
+L 214.848 254.52 
+L 214.848 286.86 
+L 179.136 286.86 
+L 179.136 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b7cff9"/>
+    <path d="M 214.848 254.52 
+L 250.56 254.52 
+L 250.56 286.86 
+L 214.848 286.86 
+L 214.848 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b9d0f9"/>
+    <path d="M 250.56 254.52 
+L 286.272 254.52 
+L 286.272 286.86 
+L 250.56 286.86 
+L 250.56 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b9d0f9"/>
+    <path d="M 286.272 254.52 
+L 321.984 254.52 
+L 321.984 286.86 
+L 286.272 286.86 
+L 286.272 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #c1d4f4"/>
+    <path d="M 321.984 254.52 
+L 357.696 254.52 
+L 357.696 286.86 
+L 321.984 286.86 
+L 321.984 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #c1d4f4"/>
+    <path d="M 357.696 254.52 
+L 393.408 254.52 
+L 393.408 286.86 
+L 357.696 286.86 
+L 357.696 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #c0d4f5"/>
+    <path d="M 393.408 254.52 
+L 429.12 254.52 
+L 429.12 286.86 
+L 393.408 286.86 
+L 393.408 254.52 
+" clip-path="url(#p9150545f44)" style="fill: #b7cff9"/>
+    <path d="M 72 286.86 
+L 107.712 286.86 
+L 107.712 319.2 
+L 72 319.2 
+L 72 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #cf453c"/>
+    <path d="M 107.712 286.86 
+L 143.424 286.86 
+L 143.424 319.2 
+L 107.712 319.2 
+L 107.712 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #cd423b"/>
+    <path d="M 143.424 286.86 
+L 179.136 286.86 
+L 179.136 319.2 
+L 143.424 319.2 
+L 143.424 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #d85646"/>
+    <path d="M 179.136 286.86 
+L 214.848 286.86 
+L 214.848 319.2 
+L 179.136 319.2 
+L 179.136 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #df634e"/>
+    <path d="M 214.848 286.86 
+L 250.56 286.86 
+L 250.56 319.2 
+L 214.848 319.2 
+L 214.848 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #e16751"/>
+    <path d="M 250.56 286.86 
+L 286.272 286.86 
+L 286.272 319.2 
+L 250.56 319.2 
+L 250.56 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #cf453c"/>
+    <path d="M 286.272 286.86 
+L 321.984 286.86 
+L 321.984 319.2 
+L 286.272 319.2 
+L 286.272 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #d95847"/>
+    <path d="M 321.984 286.86 
+L 357.696 286.86 
+L 357.696 319.2 
+L 321.984 319.2 
+L 321.984 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #d95847"/>
+    <path d="M 357.696 286.86 
+L 393.408 286.86 
+L 393.408 319.2 
+L 357.696 319.2 
+L 357.696 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #d95847"/>
+    <path d="M 393.408 286.86 
+L 429.12 286.86 
+L 429.12 319.2 
+L 393.408 319.2 
+L 393.408 286.86 
+" clip-path="url(#p9150545f44)" style="fill: #cc403a"/>
+    <path d="M 72 319.2 
+L 107.712 319.2 
+L 107.712 351.54 
+L 72 351.54 
+L 72 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 107.712 319.2 
+L 143.424 319.2 
+L 143.424 351.54 
+L 107.712 351.54 
+L 107.712 319.2 
+" clip-path="url(#p9150545f44)" style="fill: #5875e1"/>
+    <path d="M 143.424 319.2 
+L 179.136 319.2 
+L 179.136 351.54 
+L 143.424 351.54 
+L 143.424 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 179.136 319.2 
+L 214.848 319.2 
+L 214.848 351.54 
+L 179.136 351.54 
+L 179.136 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 214.848 319.2 
+L 250.56 319.2 
+L 250.56 351.54 
+L 214.848 351.54 
+L 214.848 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 250.56 319.2 
+L 286.272 319.2 
+L 286.272 351.54 
+L 250.56 351.54 
+L 250.56 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 286.272 319.2 
+L 321.984 319.2 
+L 321.984 351.54 
+L 286.272 351.54 
+L 286.272 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 321.984 319.2 
+L 357.696 319.2 
+L 357.696 351.54 
+L 321.984 351.54 
+L 321.984 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 357.696 319.2 
+L 393.408 319.2 
+L 393.408 351.54 
+L 357.696 351.54 
+L 357.696 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 393.408 319.2 
+L 429.12 319.2 
+L 429.12 351.54 
+L 393.408 351.54 
+L 393.408 319.2 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 72 351.54 
+L 107.712 351.54 
+L 107.712 383.88 
+L 72 383.88 
+L 72 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 107.712 351.54 
+L 143.424 351.54 
+L 143.424 383.88 
+L 107.712 383.88 
+L 107.712 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 143.424 351.54 
+L 179.136 351.54 
+L 179.136 383.88 
+L 143.424 383.88 
+L 143.424 351.54 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 179.136 351.54 
+L 214.848 351.54 
+L 214.848 383.88 
+L 179.136 383.88 
+L 179.136 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 214.848 351.54 
+L 250.56 351.54 
+L 250.56 383.88 
+L 214.848 383.88 
+L 214.848 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 250.56 351.54 
+L 286.272 351.54 
+L 286.272 383.88 
+L 250.56 383.88 
+L 250.56 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 286.272 351.54 
+L 321.984 351.54 
+L 321.984 383.88 
+L 286.272 383.88 
+L 286.272 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 321.984 351.54 
+L 357.696 351.54 
+L 357.696 383.88 
+L 321.984 383.88 
+L 321.984 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 357.696 351.54 
+L 393.408 351.54 
+L 393.408 383.88 
+L 357.696 383.88 
+L 357.696 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 393.408 351.54 
+L 429.12 351.54 
+L 429.12 383.88 
+L 393.408 383.88 
+L 393.408 351.54 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 72 383.88 
+L 107.712 383.88 
+L 107.712 416.22 
+L 72 416.22 
+L 72 383.88 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 107.712 383.88 
+L 143.424 383.88 
+L 143.424 416.22 
+L 107.712 416.22 
+L 107.712 383.88 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 143.424 383.88 
+L 179.136 383.88 
+L 179.136 416.22 
+L 143.424 416.22 
+L 143.424 383.88 
+" clip-path="url(#p9150545f44)" style="fill: none"/>
+    <path d="M 179.136 383.88 
+L 214.848 383.88 
+L 214.848 416.22 
+L 179.136 416.22 
+L 179.136 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #6282ea"/>
+    <path d="M 214.848 383.88 
+L 250.56 383.88 
+L 250.56 416.22 
+L 214.848 416.22 
+L 214.848 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #536edd"/>
+    <path d="M 250.56 383.88 
+L 286.272 383.88 
+L 286.272 416.22 
+L 250.56 416.22 
+L 250.56 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #485fd1"/>
+    <path d="M 286.272 383.88 
+L 321.984 383.88 
+L 321.984 416.22 
+L 286.272 416.22 
+L 286.272 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 321.984 383.88 
+L 357.696 383.88 
+L 357.696 416.22 
+L 321.984 416.22 
+L 321.984 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 357.696 383.88 
+L 393.408 383.88 
+L 393.408 416.22 
+L 357.696 416.22 
+L 357.696 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #3b4cc0"/>
+    <path d="M 393.408 383.88 
+L 429.12 383.88 
+L 429.12 416.22 
+L 393.408 416.22 
+L 393.408 383.88 
+" clip-path="url(#p9150545f44)" style="fill: #94b6ff"/>
+    <path d="M 72 416.22 
+L 107.712 416.22 
+L 107.712 448.56 
+L 72 448.56 
+L 72 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #5875e1"/>
+    <path d="M 107.712 416.22 
+L 143.424 416.22 
+L 143.424 448.56 
+L 107.712 448.56 
+L 107.712 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #dddcdc"/>
+    <path d="M 143.424 416.22 
+L 179.136 416.22 
+L 179.136 448.56 
+L 143.424 448.56 
+L 143.424 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #92b4fe"/>
+    <path d="M 179.136 416.22 
+L 214.848 416.22 
+L 214.848 448.56 
+L 179.136 448.56 
+L 179.136 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #7ea1fa"/>
+    <path d="M 214.848 416.22 
+L 250.56 416.22 
+L 250.56 448.56 
+L 214.848 448.56 
+L 214.848 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #8db0fe"/>
+    <path d="M 250.56 416.22 
+L 286.272 416.22 
+L 286.272 448.56 
+L 250.56 448.56 
+L 250.56 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #a3c2fe"/>
+    <path d="M 286.272 416.22 
+L 321.984 416.22 
+L 321.984 448.56 
+L 286.272 448.56 
+L 286.272 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #aec9fc"/>
+    <path d="M 321.984 416.22 
+L 357.696 416.22 
+L 357.696 448.56 
+L 321.984 448.56 
+L 321.984 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #adc9fd"/>
+    <path d="M 357.696 416.22 
+L 393.408 416.22 
+L 393.408 448.56 
+L 357.696 448.56 
+L 357.696 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #aac7fd"/>
+    <path d="M 393.408 416.22 
+L 429.12 416.22 
+L 429.12 448.56 
+L 393.408 448.56 
+L 393.408 416.22 
+" clip-path="url(#p9150545f44)" style="fill: #7093f3"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m5e85f52826" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5e85f52826" x="89.856" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(92.498188 504.627187) rotate(-90)">M0 | Base</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m5e85f52826" x="125.568" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(128.210188 507.556875) rotate(-90)">M1 | Cloze</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m5e85f52826" x="161.28" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(163.922188 514.085) rotate(-90)">M2 | Ngram</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m5e85f52826" x="196.992" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(199.634188 527.286563) rotate(-90)">M3 | AWD-wiki</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m5e85f52826" x="232.704" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(235.346188 519.445938) rotate(-90)">M4 | AWD-FT</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m5e85f52826" x="268.416" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(271.058188 538.158437) rotate(-90)">M5 | AWD-epubs</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m5e85f52826" x="304.128" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(306.770188 506.524063) rotate(-90)">M6 | GPT2</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5e85f52826" x="339.84" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(342.482188 549.706875) rotate(-90)">M7 | GPT2-cuentos</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m5e85f52826" x="375.552" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(378.194188 536.935) rotate(-90)">M8 | GPT2-blogs</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m5e85f52826" x="411.264" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(413.906188 507.82875) rotate(-90)">M9 | llama</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11">
+      <defs>
+       <path id="mc16d38b5e3" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="76.65" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="79.409375" transform="rotate(-0 65 79.409375)">(Intercept)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="108.99" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="111.749375" transform="rotate(-0 65 111.749375)">Nlaunchsite</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="141.33" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="144.089375" transform="rotate(-0 65 144.089375)">invlength</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="173.67" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="176.429375" transform="rotate(-0 65 176.429375)">freq</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="206.01" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="208.769375" transform="rotate(-0 65 208.769375)">rpl</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="238.35" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="241.109375" transform="rotate(-0 65 241.109375)">rpt</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="270.69" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="273.449375" transform="rotate(-0 65 273.449375)">rps</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="303.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="305.789375" transform="rotate(-0 65 305.789375)">1/length:freq</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="335.37" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="338.129375" transform="rotate(-0 65 338.129375)">Cloze-Pred</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="367.71" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="370.469375" transform="rotate(-0 65 370.469375)">Ngram</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="400.05" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="402.809375" transform="rotate(-0 65 402.809375)">Comp-Pred</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mc16d38b5e3" x="72" y="432.39" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="65" y="435.149375" transform="rotate(-0 65 435.149375)">Cloze-Remef</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="79.235156" transform="rotate(-0 89.856 79.235156)">283.01</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="79.235156" transform="rotate(-0 125.568 79.235156)">293.83</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="79.235156" transform="rotate(-0 161.28 79.235156)">271.86</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="79.235156" transform="rotate(-0 196.992 79.235156)">271.90</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="79.235156" transform="rotate(-0 232.704 79.235156)">276.08</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="79.235156" transform="rotate(-0 268.416 79.235156)">274.49</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="79.235156" transform="rotate(-0 304.128 79.235156)">281.26</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="79.235156" transform="rotate(-0 339.84 79.235156)">279.47</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="79.235156" transform="rotate(-0 375.552 79.235156)">281.97</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="79.235156" transform="rotate(-0 411.264 79.235156)">199.38</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="111.575156" transform="rotate(-0 89.856 111.575156)">44.44</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="111.575156" transform="rotate(-0 125.568 111.575156)">44.63</text>
+   </g>
+   <g id="text_35">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="111.575156" transform="rotate(-0 161.28 111.575156)">43.92</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="111.575156" transform="rotate(-0 196.992 111.575156)">44.30</text>
+   </g>
+   <g id="text_37">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="111.575156" transform="rotate(-0 232.704 111.575156)">44.20</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="111.575156" transform="rotate(-0 268.416 111.575156)">44.31</text>
+   </g>
+   <g id="text_39">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="111.575156" transform="rotate(-0 304.128 111.575156)">44.03</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="111.575156" transform="rotate(-0 339.84 111.575156)">44.01</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="111.575156" transform="rotate(-0 375.552 111.575156)">44.00</text>
+   </g>
+   <g id="text_42">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="111.575156" transform="rotate(-0 411.264 111.575156)">44.42</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="143.915156" transform="rotate(-0 89.856 143.915156)">-18.15</text>
+   </g>
+   <g id="text_44">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="143.915156" transform="rotate(-0 125.568 143.915156)">-18.56</text>
+   </g>
+   <g id="text_45">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="143.915156" transform="rotate(-0 161.28 143.915156)">-19.10</text>
+   </g>
+   <g id="text_46">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="143.915156" transform="rotate(-0 196.992 143.915156)">-19.41</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="143.915156" transform="rotate(-0 232.704 143.915156)">-19.28</text>
+   </g>
+   <g id="text_48">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="143.915156" transform="rotate(-0 268.416 143.915156)">-18.59</text>
+   </g>
+   <g id="text_49">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="143.915156" transform="rotate(-0 304.128 143.915156)">-20.04</text>
+   </g>
+   <g id="text_50">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="143.915156" transform="rotate(-0 339.84 143.915156)">-19.90</text>
+   </g>
+   <g id="text_51">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="143.915156" transform="rotate(-0 375.552 143.915156)">-19.90</text>
+   </g>
+   <g id="text_52">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="143.915156" transform="rotate(-0 411.264 143.915156)">-18.25</text>
+   </g>
+   <g id="text_53">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="176.255156" transform="rotate(-0 89.856 176.255156)">-10.83</text>
+   </g>
+   <g id="text_54">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="176.255156" transform="rotate(-0 125.568 176.255156)">-10.60</text>
+   </g>
+   <g id="text_55">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="176.255156" transform="rotate(-0 161.28 176.255156)">-1.93</text>
+   </g>
+   <g id="text_56">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="176.255156" transform="rotate(-0 196.992 176.255156)">-1.73</text>
+   </g>
+   <g id="text_57">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="176.255156" transform="rotate(-0 232.704 176.255156)">-2.56</text>
+   </g>
+   <g id="text_58">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="176.255156" transform="rotate(-0 268.416 176.255156)">-5.77</text>
+   </g>
+   <g id="text_59">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="176.255156" transform="rotate(-0 304.128 176.255156)">-4.98</text>
+   </g>
+   <g id="text_60">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="176.255156" transform="rotate(-0 339.84 176.255156)">-5.12</text>
+   </g>
+   <g id="text_61">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="176.255156" transform="rotate(-0 375.552 176.255156)">-5.01</text>
+   </g>
+   <g id="text_62">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="176.255156" transform="rotate(-0 411.264 176.255156)">-9.71</text>
+   </g>
+   <g id="text_63">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="208.595156" transform="rotate(-0 89.856 208.595156)">4.14</text>
+   </g>
+   <g id="text_64">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="208.595156" transform="rotate(-0 125.568 208.595156)">3.96</text>
+   </g>
+   <g id="text_65">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="208.595156" transform="rotate(-0 161.28 208.595156)">4.33</text>
+   </g>
+   <g id="text_66">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="208.595156" transform="rotate(-0 196.992 208.595156)">4.40</text>
+   </g>
+   <g id="text_67">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="208.595156" transform="rotate(-0 232.704 208.595156)">4.19</text>
+   </g>
+   <g id="text_68">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="208.595156" transform="rotate(-0 268.416 208.595156)">4.12</text>
+   </g>
+   <g id="text_69">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="208.595156" transform="rotate(-0 304.128 208.595156)">4.45</text>
+   </g>
+   <g id="text_70">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="208.595156" transform="rotate(-0 339.84 208.595156)">4.56</text>
+   </g>
+   <g id="text_71">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="208.595156" transform="rotate(-0 375.552 208.595156)">4.61</text>
+   </g>
+   <g id="text_72">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="208.595156" transform="rotate(-0 411.264 208.595156)">4.22</text>
+   </g>
+   <g id="text_73">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="240.935156" transform="rotate(-0 89.856 240.935156)">-3.93</text>
+   </g>
+   <g id="text_74">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="240.935156" transform="rotate(-0 125.568 240.935156)">-3.28</text>
+   </g>
+   <g id="text_75">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="240.935156" transform="rotate(-0 161.28 240.935156)">-3.87</text>
+   </g>
+   <g id="text_76">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="240.935156" transform="rotate(-0 196.992 240.935156)">-4.25</text>
+   </g>
+   <g id="text_77">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="240.935156" transform="rotate(-0 232.704 240.935156)">-4.68</text>
+   </g>
+   <g id="text_78">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="240.935156" transform="rotate(-0 268.416 240.935156)">-4.68</text>
+   </g>
+   <g id="text_79">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="240.935156" transform="rotate(-0 304.128 240.935156)">-4.56</text>
+   </g>
+   <g id="text_80">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="240.935156" transform="rotate(-0 339.84 240.935156)">-4.15</text>
+   </g>
+   <g id="text_81">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="240.935156" transform="rotate(-0 375.552 240.935156)">-4.25</text>
+   </g>
+   <g id="text_82">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="240.935156" transform="rotate(-0 411.264 240.935156)">-4.47</text>
+   </g>
+   <g id="text_83">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="273.275156" transform="rotate(-0 89.856 273.275156)">-5.36</text>
+   </g>
+   <g id="text_84">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="273.275156" transform="rotate(-0 125.568 273.275156)">-4.85</text>
+   </g>
+   <g id="text_85">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="273.275156" transform="rotate(-0 161.28 273.275156)">-5.76</text>
+   </g>
+   <g id="text_86">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="273.275156" transform="rotate(-0 196.992 273.275156)">-5.03</text>
+   </g>
+   <g id="text_87">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="273.275156" transform="rotate(-0 232.704 273.275156)">-5.00</text>
+   </g>
+   <g id="text_88">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="273.275156" transform="rotate(-0 268.416 273.275156)">-4.97</text>
+   </g>
+   <g id="text_89">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="273.275156" transform="rotate(-0 304.128 273.275156)">-3.83</text>
+   </g>
+   <g id="text_90">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="273.275156" transform="rotate(-0 339.84 273.275156)">-3.81</text>
+   </g>
+   <g id="text_91">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="273.275156" transform="rotate(-0 375.552 273.275156)">-3.92</text>
+   </g>
+   <g id="text_92">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="273.275156" transform="rotate(-0 411.264 273.275156)">-5.07</text>
+   </g>
+   <g id="text_93">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="305.615156" transform="rotate(-0 89.856 305.615156)">16.98</text>
+   </g>
+   <g id="text_94">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="305.615156" transform="rotate(-0 125.568 305.615156)">17.17</text>
+   </g>
+   <g id="text_95">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="305.615156" transform="rotate(-0 161.28 305.615156)">15.68</text>
+   </g>
+   <g id="text_96">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="305.615156" transform="rotate(-0 196.992 305.615156)">14.71</text>
+   </g>
+   <g id="text_97">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="305.615156" transform="rotate(-0 232.704 305.615156)">14.38</text>
+   </g>
+   <g id="text_98">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="305.615156" transform="rotate(-0 268.416 305.615156)">16.91</text>
+   </g>
+   <g id="text_99">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="305.615156" transform="rotate(-0 304.128 305.615156)">15.59</text>
+   </g>
+   <g id="text_100">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="305.615156" transform="rotate(-0 339.84 305.615156)">15.58</text>
+   </g>
+   <g id="text_101">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="305.615156" transform="rotate(-0 375.552 305.615156)">15.61</text>
+   </g>
+   <g id="text_102">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="305.615156" transform="rotate(-0 411.264 305.615156)">17.20</text>
+   </g>
+   <g id="text_103">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="337.955156" transform="rotate(-0 125.568 337.955156)">-16.23</text>
+   </g>
+   <g id="text_104">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="370.295156" transform="rotate(-0 161.28 370.295156)">-21.02</text>
+   </g>
+   <g id="text_105">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="402.635156" transform="rotate(-0 196.992 402.635156)">-14.97</text>
+   </g>
+   <g id="text_106">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="402.635156" transform="rotate(-0 232.704 402.635156)">-16.77</text>
+   </g>
+   <g id="text_107">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="402.635156" transform="rotate(-0 268.416 402.635156)">-18.23</text>
+   </g>
+   <g id="text_108">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="402.635156" transform="rotate(-0 304.128 402.635156)">-22.51</text>
+   </g>
+   <g id="text_109">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="402.635156" transform="rotate(-0 339.84 402.635156)">-22.52</text>
+   </g>
+   <g id="text_110">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="402.635156" transform="rotate(-0 375.552 402.635156)">-22.54</text>
+   </g>
+   <g id="text_111">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="402.635156" transform="rotate(-0 411.264 402.635156)">-9.17</text>
+   </g>
+   <g id="text_112">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="89.856" y="434.975156" transform="rotate(-0 89.856 434.975156)">-16.14</text>
+   </g>
+   <g id="text_113">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="125.568" y="434.975156" transform="rotate(-0 125.568 434.975156)">0.00</text>
+   </g>
+   <g id="text_114">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="161.28" y="434.975156" transform="rotate(-0 161.28 434.975156)">-9.47</text>
+   </g>
+   <g id="text_115">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="196.992" y="434.975156" transform="rotate(-0 196.992 434.975156)">-11.63</text>
+   </g>
+   <g id="text_116">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="232.704" y="434.975156" transform="rotate(-0 232.704 434.975156)">-9.86</text>
+   </g>
+   <g id="text_117">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="268.416" y="434.975156" transform="rotate(-0 268.416 434.975156)">-7.37</text>
+   </g>
+   <g id="text_118">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="304.128" y="434.975156" transform="rotate(-0 304.128 434.975156)">-6.18</text>
+   </g>
+   <g id="text_119">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="339.84" y="434.975156" transform="rotate(-0 339.84 434.975156)">-6.39</text>
+   </g>
+   <g id="text_120">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="375.552" y="434.975156" transform="rotate(-0 375.552 434.975156)">-6.58</text>
+   </g>
+   <g id="text_121">
+    <text style="fill: #0000ff; font: 700 10px 'Raleway'; text-anchor: middle" x="411.264" y="434.975156" transform="rotate(-0 411.264 434.975156)">-13.19</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 451.44 448.56 
+L 470.844 448.56 
+L 470.844 60.48 
+L 451.44 60.48 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p8f255b5295)" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.01; stroke-linejoin: miter"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABsAAAIbCAYAAAAaS+V8AAACl0lEQVR4nO2cgW3kQAzEbGO7SgspOn0l500RJgSYIBtYzGlGGn+AP7++f/YxxDX10HEcxzqvufemlZ1jjw0rO5vZc0aVFWqEdVkNUqgRyhmCeGZXOQNIGYJ362cQhHV5T8xpnZnXjV5l1QKClCF4d2P/WoBg/vK0Wl+8rsQ5y40A01XOqsw7M62y1hVCJwahUCOsQWHNjEGsrMJDoK4Fc49VCxDEtcC8ruYey40I6g0y91i1AMH7YdG6QliDf/dpZgziWiCuctZFLFZWlSMQ1wJtuxI3Yq31zW7UKjPX77nH+rBAaIMgiAuP9mdsESO0rhDEM/Mqy40E08rG/hsecy3I+gQpQ1iXNdTimXmViXfjUc6ekxvf95i3N5qt37oCKGcI3kVcLUAoZ+97rBODkPURxIu440lQzhCaGcL0pZ5DXHi8BinUBM0MoZkh9DGIkBsRzLXA+jOalRVqgJQhpAxhWtk99li7EWGdW6qsUCOsc2tD3cwAmhlCM0PoeCJ43Zj1EbwGMYda+312eGfmzVm7EaCcve8xsUG8x/MQz0yrTHtizG5sZs+pFiB4d2MGQfAaRLyuxCfmts7Mu0HKGUEze99j3p/RbP1ODEA5QzDPTJwzr7Lc+Bx14dEaxBvqu5k9p3WF0AZBaIMgrG2dWQZBEId6d2IAqgUI4pmJc6bd+tpa4J1ZtQBhbatBxMdza4+neGbenLUbASqp73vM267Ejdgb6o4nQYsYoZKKUM4QvMpaVwhegzQzhP48gpAbEZoZgndm/YwIWR9hVtn9sSrLjQQpQ1ArK2fPERce84nxKivUzylnCOKZiXOmdaM2Z4UawWuQtT/adZUbAToxCOv+syrbv1ZlzYxAXHjMBrHWAvPMpMr+AX2wWiA2Tg6vAAAAAElFTkSuQmCC" id="image30f9b1c54a" transform="scale(1 -1) translate(0 -388.08)" x="451.44" y="-60.48" width="19.44" height="388.08"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_13">
+     <g id="line2d_23">
+      <defs>
+       <path id="m06aca2493b" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="448.56" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_122">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="452.359219" transform="rotate(-0 477.844 452.359219)">−20</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="400.05" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_123">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="403.849219" transform="rotate(-0 477.844 403.849219)">−15</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="351.54" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_124">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="355.339219" transform="rotate(-0 477.844 355.339219)">−10</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="303.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_125">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="306.829219" transform="rotate(-0 477.844 306.829219)">−5</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="254.52" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_126">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="258.319219" transform="rotate(-0 477.844 258.319219)">0</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="206.01" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_127">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="209.809219" transform="rotate(-0 477.844 209.809219)">5</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="157.5" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_128">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="161.299219" transform="rotate(-0 477.844 161.299219)">10</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="108.99" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_129">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="112.789219" transform="rotate(-0 477.844 112.789219)">15</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m06aca2493b" x="470.844" y="60.48" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_130">
+      <text style="font: 10px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="477.844" y="64.279219" transform="rotate(-0 477.844 64.279219)">20</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_5">
+    <path d="M 451.44 448.56 
+L 461.142 448.56 
+L 470.844 448.56 
+L 470.844 60.48 
+L 461.142 60.48 
+L 451.44 60.48 
+L 451.44 448.56 
+z
+" style="fill: none"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9150545f44">
+   <rect x="72" y="60.48" width="357.12" height="388.08"/>
+  </clipPath>
+  <clipPath id="p8f255b5295">
+   <rect x="451.44" y="60.48" width="19.404" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>
